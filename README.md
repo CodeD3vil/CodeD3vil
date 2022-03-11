@@ -1,5 +1,9 @@
 ### Hello, my name is Tomas Krajcovic and I have a passion for designing and developing websites 👋
-### Checkout my website FireQuill at https://firequill.netlify.app/
+### Checkout my website at https://firequill.netlify.app/
+
+##
+
+<img align="right" height="20%" width="20%" alt="tomas-Js" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif">
 
 - 🔍 I’m curious
 - 👪 I love my family
@@ -7,9 +11,7 @@
 - 🌱 I’m currently learning: NodeJS
 - 🔭 I’m currently working on an intranet website
 
-
 ##
-
 
 ### 🛠️ My Toolbox :
 <div align="center" style="display: inline_block"><br>
@@ -40,7 +42,7 @@
 </div>
    
    ##
-### Reach me at
+### Reach me at 📫
 <div> 
   <a href = "mailto:tomaskrajcovic@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    <a href = "https://www.facebook.com/firequill"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
