@@ -33,14 +33,14 @@
 ### 🔥 My Stats :
 <div align="center">
   <a href="https://github.com/CodeD3vil">
-  <img height="50%" width="75%" src="https://github-readme-stats.vercel.app/api?username=CodeD3vil&show_icons=true&theme=onedark&include_all_commits=true&count_private=true">
+  <img height="30%" width="60%" src="https://github-readme-stats.vercel.app/api?username=CodeD3vil&show_icons=true&theme=onedark&include_all_commits=true&count_private=true">
 </div>  
   
   ##
 ### ⭐ My Favorites :
 <div align="center">
   <a href="https://github.com/CodeD3vil">
-  <img height="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coded3vil&theme=onedark">
+  <img height="400px" width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coded3vil&theme=onedark">
 </div>
    
    ##
