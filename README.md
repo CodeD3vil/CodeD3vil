@@ -3,7 +3,7 @@
 
 ##
 
-<img align="right" height="70%" width="70%" alt="tomas-Js" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif">
+<img align="right" height="50%" width="50%" alt="tomas-Js" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif">
 
 - 🔍 I’m curious
 - 👪 I love my family
