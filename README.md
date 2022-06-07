@@ -1,12 +1,17 @@
 ### Hello, my name is Tomas Krajcovic and I have a passion for designing and developing websites 👋
 ### Checkout my website at https://firequill.netlify.app/
+### ...and my other projects
+
+- [Solar System](https://solarsystem-planets.netlify.app/)
+- [Calculator](https://calc-o-matic.netlify.app/)
+- [Country Finder](https://countryfinderapp.netlify.app/)
 
 ##
 
 - 🔍 I’m curious
 - 👪 I love my family
 - 🏋️ I love working out
-- 🌱 I’m currently learning: NodeJS
+- 🌱 I’m currently learning: NodeJS & Webflow
 - 🔭 I’m currently working on an intranet website
 
 ##
