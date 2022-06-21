@@ -30,6 +30,7 @@
    <img align="center" alt="tomas-illustrator" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg">
    <img align="center" alt="tomas-photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
    <img align="center" alt="tomas-figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
+    <img align="center" alt="tomas-figma" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/webflow/webflow-original.svg">
 </div>
 
 ##
