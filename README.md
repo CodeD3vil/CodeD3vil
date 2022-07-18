@@ -5,6 +5,7 @@
 - [Solar System](https://solarsystem-planets.netlify.app/)
 - [Calculator](https://calc-o-matic.netlify.app/)
 - [Country Finder](https://countryfinderapp.netlify.app/)
+- [Web Desing Resources](https://web-dev-res.herokuapp.com/home)
 
 ##
 
