@@ -1,5 +1,5 @@
 ### Hello, my name is Tomas Krajcovic and I have a passion for designing and developing websites 👋
-### Checkout my website at https://firequill.netlify.app/
+### Checkout my website at https://tomaskrajcovic.netlify.app/index.html
 ### ...and my other projects
 
 - [Solar System](https://solarsystem-planets.netlify.app/)
