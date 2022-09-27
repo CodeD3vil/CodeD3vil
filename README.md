@@ -3,17 +3,17 @@
 ### ...and my other projects
 
 - [Solar System](https://solarsystem-planets.netlify.app/)
-- [Calculator](https://calc-o-matic.netlify.app/)
 - [Country Finder](https://countryfinderapp.netlify.app/)
 - [Web Desing Resources](https://web-dev-res.herokuapp.com/home)
+- [City Mesh](https://city-mesh.webflow.io/)
 
 ##
 
 - 🔍 I’m curious
 - 👪 I love my family
 - 🏋️ I love working out
-- 🌱 I’m currently learning: NodeJS & Webflow
-- 🔭 I’m currently working on an intranet website
+- 🌱 I’m currently learning: Webflow CMS, jQuery, Google Apps Script
+- 🔭 I’m currently working on learning as much as I can 
 
 ##
 
