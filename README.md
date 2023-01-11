@@ -1,5 +1,5 @@
 ### Hello, my name is Tomas Krajcovic and I have a passion for designing and developing websites 👋
-### Checkout my website at https://tomaskrajcovic.netlify.app/index.html
+### Checkout my portfolio made in Webflow [here](https://tomaskrajcovic.webflow.io/)
 ### ...and my other projects
 
 - [Solar System](https://solarsystem-planets.netlify.app/)
