@@ -2,6 +2,7 @@
 ### Checkout my portfolio made in Webflow [here](https://tomaskrajcovic.webflow.io/)
 ### ...and my other projects
 
+- [My Portfolio](https://tomaskrajcovic.webflow.io/)
 - [Solar System](https://solarsystem-planets.netlify.app/)
 - [Country Finder](https://countryfinderapp.netlify.app/)
 - [Web Desing Resources](https://web-dev-res.herokuapp.com/home)
@@ -13,7 +14,7 @@
 - 🔍 I’m curious
 - 👪 I love my family
 - 🏋️ I love working out
-- 🌱 I’m currently learning: Webflow CMS, jQuery, Google Apps Script
+- 🌱 I’m currently learning: React
 - 🔭 I’m currently working on learning as much as I can 
 
 ##
