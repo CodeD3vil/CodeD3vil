@@ -1,7 +1,8 @@
-### Hello, my name is Tomas Krajcovic and I have a passion for designing and developing websites 👋
+### Hello, my name is Tomas Krajcovic and I have a passion for designing and developing websites and videogames 👋
 ### Checkout my portfolio made in Webflow [here](https://tomaskrajcovic.webflow.io/)
 ### ...and my other projects
 
+- [Foxy Antics](https://coded3vil.itch.io/foxy-antics)
 - [My Portfolio](https://tomaskrajcovic.webflow.io/)
 - [Solar System](https://solarsystem-planets.netlify.app/)
 - [Country Finder](https://countryfinderapp.netlify.app/)
