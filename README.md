@@ -15,7 +15,7 @@
 - 🔍 I’m curious
 - 👪 I love my family
 - 🏋️ I love working out
-- 🌱 I’m currently learning: React
+- 🌱 I’m currently learning: Godot
 - 🔭 I’m currently working on learning as much as I can 
 
 ##
