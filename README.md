@@ -12,14 +12,6 @@
 
 ##
 
-- 🔍 I’m curious
-- 👪 I love my family
-- 🏋️ I love working out
-- 🌱 I’m currently learning: Godot
-- 🔭 I’m currently working on learning as much as I can 
-
-##
-
 ### 🛠️ My Toolbox :
 <div align="center" style="display: inline_block"><br>
    <img align="center" alt="tomas-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
